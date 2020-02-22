@@ -1,7 +1,3 @@
-#BT3051 Assignment 1b
-#Roll number: EP17B017 
-#Collaborators: - 
-#Time: 3:00
 
 import sys
 import doctest
