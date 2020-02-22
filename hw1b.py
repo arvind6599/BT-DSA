@@ -1,3 +1,4 @@
+# ​Identify Open Reading Frames, Translate mRNA to Protein, Calculate Protein Mass 
 
 import sys
 import doctest
