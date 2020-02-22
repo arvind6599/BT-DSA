@@ -1,7 +1,3 @@
-#BT3051 Assignment 3b
-#Roll number: EP17B017 
-#Collaborators: - BE17B011
-#Time: 3:30
 
 # stores the labels of each node to easily traverse all verteices
 l=[]
